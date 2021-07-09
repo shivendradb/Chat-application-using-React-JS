@@ -28,7 +28,6 @@ Here you can find the demo link:
 > Email: test@user2.com<br/>
 > Password: testUser2<br/>
 
-<br/>
 
 ## ✨ Features
 
